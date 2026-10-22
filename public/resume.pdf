@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3549 >>
+stream
+BT /F2 20 Tf 50 750 Td (GALLA MOHAN SAI) Tj ET
+BT /F1 11 Tf 50 734 Td (Full Stack Developer | AI/ML Enthusiast) Tj ET
+BT /F1 10 Tf 50 718 Td (GitHub: https://github.com/MOHAN9818  |  Amaravati, Andhra Pradesh, India) Tj ET
+50 710 m 562 710 l S
+BT /F2 13 Tf 50 690 Td (EDUCATION) Tj ET
+BT /F2 10 Tf 50 672 Td (VIT-AP University, Amaravati, Andhra Pradesh) Tj ET
+BT /F1 10 Tf 430 672 Td (2023 - 2027 \(Pursuing\)) Tj ET
+BT /F1 10 Tf 60 658 Td (Bachelor of Technology in Computer Science and Engineering) Tj ET
+BT /F2 10 Tf 50 640 Td (Intermediate Education) Tj ET
+BT /F1 10 Tf 430 640 Td (2021 - 2023) Tj ET
+BT /F1 10 Tf 60 626 Td (Score: 96.5% \(Strong foundation in Mathematics and Sciences\)) Tj ET
+BT /F2 13 Tf 50 598 Td (TECHNICAL SKILLS) Tj ET
+BT /F2 10 Tf 50 580 Td (Languages:) Tj ET
+BT /F1 10 Tf 150 580 Td (Java, JavaScript) Tj ET
+BT /F2 10 Tf 50 564 Td (Frontend:) Tj ET
+BT /F1 10 Tf 150 564 Td (React.js, HTML5, CSS3, Responsive Web Design) Tj ET
+BT /F2 10 Tf 50 548 Td (Backend:) Tj ET
+BT /F1 10 Tf 150 548 Td (Node.js, Express.js, REST APIs, JWT Authentication) Tj ET
+BT /F2 10 Tf 50 532 Td (Databases:) Tj ET
+BT /F1 10 Tf 150 532 Td (MongoDB, Mongoose) Tj ET
+BT /F2 10 Tf 50 516 Td (AI / Machine Learning:) Tj ET
+BT /F1 10 Tf 150 516 Td (Generative AI, Google Gemini API, RAG, Semantic Embeddings) Tj ET
+BT /F2 10 Tf 50 500 Td (Tools & Platforms:) Tj ET
+BT /F1 10 Tf 150 500 Td (Git, GitHub, Vercel, Render, Postman) Tj ET
+BT /F2 13 Tf 50 472 Td (FEATURED PROJECTS) Tj ET
+BT /F2 10 Tf 50 454 Td (AI Mock Interviewer) Tj ET
+BT /F1 9 Tf 160 454 Td (| React.js, Node.js, Express, MongoDB, Gemini API, RAG, JWT) Tj ET
+BT /F1 9 Tf 60 440 Td (- AI-driven platform for role-specific interview simulation and feedback) Tj ET
+BT /F1 9 Tf 60 428 Td (- Implements RAG for contextual question generation and performance evaluation) Tj ET
+BT /F1 9 Tf 60 416 Td (- Features scoring breakdown, interview history tracking, and downloadable PDF reports) Tj ET
+BT /F2 10 Tf 50 396 Td (Fin Tracker - Expense Tracking System) Tj ET
+BT /F1 9 Tf 235 396 Td (| React.js, Node.js, Express, MongoDB, Mongoose, JWT) Tj ET
+BT /F1 9 Tf 60 382 Td (- Full-stack expense management application with JWT authentication) Tj ET
+BT /F1 9 Tf 60 370 Td (- Financial dashboard with income/expense metrics, savings-rate visualization) Tj ET
+BT /F1 9 Tf 60 358 Td (- Transaction categorization and automated reminder alerts) Tj ET
+BT /F2 10 Tf 50 338 Td (X Clone - Social Media Interface) Tj ET
+BT /F1 9 Tf 215 338 Td (| React.js, JavaScript, HTML5, CSS3) Tj ET
+BT /F1 9 Tf 60 324 Td (- Responsive social web application with dynamic feed, user profiles, and post creation) Tj ET
+BT /F2 13 Tf 50 294 Td (CERTIFICATIONS & EXPERIENCE) Tj ET
+BT /F2 10 Tf 50 276 Td (MERN Full Stack Web Development Certification) Tj ET
+BT /F1 9 Tf 60 262 Td (- Comprehensive development and deployment with React, Node.js, Express, and MongoDB) Tj ET
+BT /F2 10 Tf 50 244 Td (Prodigy InfoTech - Web Development Internship) Tj ET
+BT /F1 9 Tf 60 230 Td (- Practical frontend application engineering; awarded official Letter of Recommendation) Tj ET
+BT /F2 10 Tf 50 212 Td (NPTEL: AI Search Methods for Problem Solving) Tj ET
+BT /F1 9 Tf 60 198 Td (- Academic certification covering heuristic search, state space search, and optimization \(Score: 60/100\)) Tj ET
+0.5 w [2 2] 0 d 50 140 m 562 140 l S [] 0 d
+BT /F1 8 Tf 50 120 Td (Note: This resume is generated from verified portfolio data.) Tj ET
+BT /F1 8 Tf 50 108 Td (To replace with an updated version, place your PDF at: public/resume.pdf) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3997
+%%EOF
