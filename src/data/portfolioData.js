@@ -27,7 +27,7 @@ export const personalInfo = {
   githubUrl: "https://github.com/MOHAN9818",
   
   // Professional Contact Details
-  email: "mohansaigalla06@gmail.com", 
+  email: "mohangalla2006@gmail.com", 
   
   // Tip: Replace empty string with your actual LinkedIn URL e.g. "https://linkedin.com/in/gallamohansai"
   linkedinUrl: "", 
