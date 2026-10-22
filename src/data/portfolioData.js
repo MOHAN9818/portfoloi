@@ -83,7 +83,7 @@ export const skillsData = [
     category: "Databases",
     icon: "Database",
     description: "Data modeling, schema design, and persistent storage management",
-    skills: ["MongoDB", "Mongoose"]
+    skills: ["MongoDB", "Mongoose","SQL"]
   },
   {
     category: "AI & Machine Learning",
